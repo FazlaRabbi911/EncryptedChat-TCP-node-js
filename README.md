@@ -22,12 +22,13 @@ A simple terminal-based encrypted chat system built using Node.js and TCP. This 
 
    
 To start the server, run:
+```bash
 node server.js
-
+```
 In a new terminal window, run the client 
-
+```bash
 node client.js
-
+```
 The client will connect to the server and await an ID assignment from the server.
 
 You can add how many client you want.
